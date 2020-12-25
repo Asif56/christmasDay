@@ -134,7 +134,7 @@ const far = 1000;
 }
 function animate() {
   requestAnimationFrame(animate);
-  house.rotation.z += 0.006;
+  house.rotation.z += 0.005;
   renderer.render(scene, camera);
 }
 
