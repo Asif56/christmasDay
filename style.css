@@ -69,6 +69,14 @@ canvas {
   display: none;
 }
 
+.rights{
+  position: absolute;
+  width: 100%;
+  flex-direction: column-reverse;
+  display: flex;
+  height: 100vh;
+  align-items: flex-end;
+}
 
 
 
